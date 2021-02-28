@@ -1,6 +1,6 @@
 # Optimization
 
-If your map is complex enough, you should consider optimizing it.
+Bigger maps need some help from you to run smoothly.
 
 ## Disabling Rooms
 
