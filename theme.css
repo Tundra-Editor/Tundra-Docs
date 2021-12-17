@@ -325,8 +325,8 @@ body.sticky .sidebar-toggle {
 .markdown-section iframe {
   border: 1px solid #eee;
   /* fix horizontal overflow on iOS Safari */
-  width: 1px;
-  min-width: 100%;
+  /* width: 1px; */
+  /* min-width: 100%; */
 }
 .markdown-section table {
   border-collapse: collapse;

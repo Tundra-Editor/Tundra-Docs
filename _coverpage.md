@@ -6,4 +6,4 @@
 
 ![](_images/cover-background.png)
 
-![color](#3c1d1d)
+![color](#563131)
