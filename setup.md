@@ -1,6 +1,6 @@
 # Setup
 
-There are few things that you have to do before making your map.
+There are couple of things that you have to do before making your map.
 
 ## Map Info
 

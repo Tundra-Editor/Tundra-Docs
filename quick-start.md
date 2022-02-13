@@ -13,7 +13,7 @@ Also, it might be useful to learn the [Unity essentials](https://unity3d.com/lea
 
 At this point in time, Tundra isn't publicly available. Contact [PITR](https://pitr.dev/).
 
-After setting up your gitlab account and installing git, create a new 3D Unity project with the correct version of Unity.
+After setting up your GitLab account and installing git, create a new 3D Unity project with the correct version of Unity.
 
 Next, download the [Tundra Setup Script](https://gitlab.com/PITR_DEV/tundra.config/-/raw/master/Scripts/create-tundra.bat?inline=false) and place it in the root of your new Unity project.
 
