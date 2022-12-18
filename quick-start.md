@@ -11,17 +11,26 @@ Also, it might be useful to learn the [Unity essentials](https://unity3d.com/lea
 
 ## Getting Tundra
 
-At this point in time, Tundra isn't publicly available. Contact [PITR](https://pitr.dev/).
+At this point in time, Tundra isn't publicly available. Contact [PITR](https://pitr.dev/contact) via the Discord server you should already be in.
 
 After setting up your GitLab account and installing git, create a new 3D Unity project with the correct version of Unity.
 
-Next, download the [Tundra Setup Script](https://gitlab.com/PITR_DEV/tundra.config/-/raw/master/Scripts/create-tundra.bat?inline=false) and place it in the root of your new Unity project.
+Next, download the [Tundra Installer](https://github.com/PITR-DEV/Tundra-Installer/releases/latest) and unzip it in the root of your new project.
 
-![tundra setup script](_images/tundra-setup-script.png)
+> Note: If you're viewing this during the private beta, the download link is likely to be broken.
+> In that case, you must obtain the latest installer from the tundra group on Discord.
 
-Close Unity and start the script.
+![tundra setup script](_images/tundra-installer-unzip.png)
 
-[tundra installation video](https://www.youtube-nocookie.com/embed/EOo4OL4kiYw?controls=1 ':include :type=iframe width=560px height=515px frameborder="1" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen')
+![tundra setup script](_images/tundra-installer-folder.png)
+
+## Setup
+
+Close Unity and start the `install_prereq.bat` if you haven't already.
+
+> Make sure you already have the Agony version of the game installed, before running the installer.
+
+Follow the steps from the script, and then launch the installer.
 
 ## Creating a new map
 

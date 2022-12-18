@@ -1,3 +1,5 @@
 # Tundra
 
-> A ULTRAKILL level editor.
+Tundra is currently in a private beta, but the documentation is available publicly.
+
+You will not be able to install and set-up the editor without being given access first.

@@ -2,7 +2,7 @@
 
 # Tundra
 
-[Get Started](quick-start.md)
+[Get Started](beta-setup.md)
 
 ![](_images/cover-background.png)
 

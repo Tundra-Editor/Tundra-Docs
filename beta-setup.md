@@ -32,6 +32,8 @@ Next, go to this [GitLab page](https://gitlab.com/-/profile/keys) and paste the 
 
 As of now, all the repositories needed for Tundra are private. You will have to be manually added to the testers group.
 
+Otherwise you will be unable to proceed.
+
 ## Setting up Tundra
 
 [Tundra Quick Start](/quick-start)
