@@ -1,4 +1,4 @@
-# Navmesh
+# NavMesh
 
 Only Navigation static objects are included in the Navmesh bake, which is used by enemies.
 
