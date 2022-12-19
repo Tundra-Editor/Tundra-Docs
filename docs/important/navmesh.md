@@ -17,7 +17,7 @@ See [Navmesh bake](layers-and-tags) for more information.
 
 NavMeshes are baked based on **Mesh Renderer**, and **not** colliders!
 
-If you want to make an alternate AI path or blok off one, make sure the object doesn't have a collider, and tag it as EditorOnly so it doesn't appear in game.
+If you want to make an alternate AI path or block off one, make sure the object doesn't have a collider, and tag it as EditorOnly so it doesn't appear in game.
 
 :::
 
