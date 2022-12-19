@@ -1,4 +1,4 @@
-# Quick start
+# Tundra Setup
 
 ## Getting Unity
 
@@ -20,9 +20,9 @@ Next, download the [Tundra Installer](https://github.com/PITR-DEV/Tundra-Install
 > Note: If you're viewing this during the private beta, the download link is likely to be broken.
 > In that case, you must obtain the latest installer from the tundra group on Discord.
 
-![tundra setup script](_images/tundra-installer-unzip.png)
+![tundra setup script](../_images/tundra-installer-unzip.png)
 
-![tundra setup script](_images/tundra-installer-folder.png)
+![tundra setup script](../_images/tundra-installer-folder.png)
 
 ## Setup
 
@@ -34,8 +34,8 @@ Follow the steps from the script, and then launch the installer.
 
 ## Creating a new map
 
-![quick new map step 1](_images/quick-new-map-1.png)
+![quick new map step 1](../_images/quick-new-map-1.png)
 
-![quick new map step 2](_images/quick-new-map-2.png)
+![quick new map step 2](../_images/quick-new-map-2.png)
 
-Using Quick New Map allows you to mostly skip the [Map Setup](/setup), though you still have to fill out your map details!
+Using Quick New Map allows you to mostly skip the [Map Setup](/important/map-setup), though you still have to fill out your map details!

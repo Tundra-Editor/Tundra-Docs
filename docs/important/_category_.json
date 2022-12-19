@@ -1,0 +1,8 @@
+{
+  "label": "Important",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Things especially worth knowing."
+  }
+}

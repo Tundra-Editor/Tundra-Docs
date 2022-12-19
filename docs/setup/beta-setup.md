@@ -1,4 +1,4 @@
-# Beta Setup
+# Beta Prerequisites
 
 ## Creating a GitLab account
 
@@ -18,7 +18,7 @@ Open the command prompt and type: `ssh-keygen`
 
 The default settings should be fine, so feel free to keep pressing enter.
 
-![quick new map step 1](_images/ssh-keygen.png)
+![quick new map step 1](../_images/ssh-keygen.png)
 
 ## Adding the ssh key to your account
 
@@ -36,4 +36,4 @@ Otherwise you will be unable to proceed.
 
 ## Setting up Tundra
 
-[Tundra Quick Start](/quick-start)
+[Tundra Quick Start](editor-setup)
