@@ -52,8 +52,8 @@ NavMeshObstacles only support two kinds of shapes: Box and Capsule.
 :::
 
 - `Carve`
- - If the object is moving, carve should be off. Agents will try to steer to avoid collision.
- - If the object is stationary, carve should be on. It will create a hole in the NavMesh and Agents won't be able to go inside that area.
+   - If the object is moving, carve should be off. Agents will try to steer to avoid collision.
+   - If the object is stationary, carve should be on. It will create a hole in the NavMesh and Agents won't be able to go inside that area.
 - `Move Threshold` - If the object moves, it will update the "Hole in the NavMesh" everytime it moves more than the given distance.
 - `Time To Stationary` - The required amount of time for the Carve to be treated stationary. (See below setting)
 - `Carve Only Stationary` - Enables the `Carve` setting when stationary, otherwise disables it if moving automatically.
