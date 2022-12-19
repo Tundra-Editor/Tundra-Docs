@@ -11,7 +11,7 @@ First make sure your objects are layered and tagged properly and they're marked 
 
 Layer is as crucial as marking the object as static; without it, enemies won't be able to walk on said object, regardless of if it's baked or not.
 
-See [Navmesh bake](layers-and-tags) for more information.
+See [NavMesh bake](layers-and-tags) for more information.
 
 :::info
 
