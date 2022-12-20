@@ -20,7 +20,7 @@ An object may only be lit up by **8** light sources at once! Anything more than 
   - More specific information on [Unity Docs](https://docs.unity3d.com/550/Documentation/Manual/Lighting.html) with pictures.
 - `Range` - At which distance should the light fully fade off. Higher `range` also makes the light brighter closer to the center.
 - `Intensity` - How bright the light should be. Usually in ULTRAKILL's case, it'll usually be in the 4-10 range.
-- `Culling Mask` - This specifies what [layers](important/layers-and-tags) should the Light Source illuminate. This allows you to create seperate Light Sources so they don't leak into each other for example indoors and outdoors area.
+- `Culling Mask` - This specifies what [layers](/important/layers-and-tags) should the Light Source illuminate. This allows you to create seperate Light Sources so they don't leak into each other for example indoors and outdoors area.
 
 Any other setting is irrelevant in ULTRAKILL's case. ULTRAKILL does not support shadows or light baking.
 
