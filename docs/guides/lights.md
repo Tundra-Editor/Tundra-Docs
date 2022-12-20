@@ -4,13 +4,13 @@ This page serves as a general guide for Light Sources.
 
 [Unity Docs](https://docs.unity3d.com/Manual/class-Light.html)
 
+## The Light Object
 :::danger
 
 An object may only be lit up by **8** light sources at once! Anything more than that will cause flickering.
 
 :::
 
-## The Light Object
 ![light](../_images/light.png)
 
 - `Type`
