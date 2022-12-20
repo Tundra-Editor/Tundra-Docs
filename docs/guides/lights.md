@@ -64,7 +64,7 @@ Fog is off by default. Enabling it will make far away objects fade into the sele
 
 :::tip
 
-![eyedropper](../_images/eyedropper.png)
+![eyedropper](../_images/fog_eyedropper.png)
 
 For setting the `Fog Color`, click the `eyedropper icon` to the right, and click on the Skybox in your scene view. This will ensure far away objects will blend into the skybox perfectly.
 
