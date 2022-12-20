@@ -62,6 +62,6 @@ Fog is off by default. Enabling it will make far away objects fade into the sele
 
 For setting the `Fog Color`, click the `eyedropper icon` to the right, and click on the Skybox texture. This will ensure far away objects will blend into the skybox perfectly.
 
-When clicking the `eyedrop dropper` icon, you can pick colors from **anywhere**, even other applications.
+When clicking the `eyedropper` icon, you can pick colors from **anywhere**, even other applications.
 
 :::
