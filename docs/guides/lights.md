@@ -59,9 +59,9 @@ Fog is off by default. Enabling it will make far away objects fade into the sele
 ![fog example 1](../_images/fog_example1.png)
 ![fog example 2](../_images/fog_example2.png)
 
-*Fog Settings example with Black `Color`, `Start` value of 0, and `End` value of 300 *
+*Fog Settings example on White Cubes, with Black `Fog Color`, `Start` value of 0, and `End` value of 300*
 
-* The Long cube is 568 units long, the 4th small cube is at the 300 Unit Mark*
+*The Long cube is 568 units long, the 4th small cube is at the 300 Unit Mark*
 
 :::tip
 
