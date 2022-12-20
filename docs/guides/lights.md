@@ -11,7 +11,6 @@ An object may only be lit up by **8** light sources at once! Anything more than 
 
 :::
 
-[Unity Docs](https://docs.unity3d.com/Manual/nav-BuildingNavMesh.html)
 ## The Light Object
 ![light](../_images/light.png)
 
@@ -19,7 +18,7 @@ An object may only be lit up by **8** light sources at once! Anything more than 
   - `Point Light` is the most common one you need. It emits light in all directions from its position.
   - `Spotlight` emits in the forward direction. You'll need to rotate it to orient it in the way you want.
   - `Directional` Light is a sun-like light source. It illuminates all faces at the angle its rotated at. Directional Light's position is irrelevant, it's only the rotation that matters.
-  - More specific informations on [Unity Docs](https://docs.unity3d.com/550/Documentation/Manual/Lighting.html)
+  - More specific information on [Unity Docs](https://docs.unity3d.com/550/Documentation/Manual/Lighting.html) with pictures.
 - `Range` - At which distance should the light fully fade off. Higher `range` also makes the light brighter closer to the center.
 - `Intensity` - How bright the light should be. Usually in ULTRAKILL's case, it'll usually be in the 4-10 range.
 - `Culling Mask` - This specifies what [layers](../important/layers-and-tags) should the Light Source illuminate. This allows you to create seperate Light Sources so they don't leak into each other for example indoors and outdoors area.
@@ -58,6 +57,8 @@ Fog is off by default. Enabling it will make far away objects fade into the sele
 - `End` is the distance where the object is fully faded, and has the specified `Color`.
 
 :::tip
+
+![eyedropper](../_images/eyedropper.png)
 
 For setting the `Fog Color`, click the `eyedropper icon` to the right, and click on the Skybox texture. This will ensure far away objects will blend into the skybox perfectly.
 
