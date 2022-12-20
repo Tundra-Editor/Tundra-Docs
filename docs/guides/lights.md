@@ -56,12 +56,20 @@ Fog is off by default. Enabling it will make far away objects fade into the sele
 - `Start` is the distance where objects will start fading. Any objects below this distance are fully visible.
 - `End` is the distance where the object is fully faded, and has the specified `Color`.
 
+
+![fog example 1](../_images/fog_example1.png)
+![fog example 2](../_images/fog_example2.png)
+
+*Fog Settings example with Black `Color`, `Start` value of 0, and `End` value of 300 *
+
+* The Long cube is 568 units long, the 4th small cube is at the 300 Unit Mark*
+
 :::tip
 
 ![eyedropper](../_images/eyedropper.png)
 
 For setting the `Fog Color`, click the `eyedropper icon` to the right, and click on the Skybox texture. This will ensure far away objects will blend into the skybox perfectly.
 
-When clicking the `eyedropper` icon, you can pick colors from **anywhere**, even other applications.
+When clicking the `eyedropper` icon, you can pick colors from **anywhere**, including other applications.
 
 :::
