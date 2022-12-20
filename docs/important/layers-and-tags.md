@@ -6,4 +6,4 @@ This might change in the future, but due to the way ULTRAKILL was programmed, yo
 
 ![setting the layer and the tag](../_images/setting-layer-and-tag.png)
 
-Additionally, you should mark your walls and floors as Navigation Statis if you plan to have enemies there. Only Navigation static objects are included in the [Navmesh bake](navmesh), which is used by enemies.
+Additionally, you should mark your walls and floors as Navigation Static if you plan to have enemies there. Only Navigation static objects are included in the [Navmesh bake](navmesh), which is used by enemies.
