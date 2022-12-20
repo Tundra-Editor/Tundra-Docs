@@ -1,7 +1,6 @@
 # Lights
-Due to the way Lights work in ULTRAKILL, there may be some precautions you must take.
 
-This page also serves as a general guide for Light Sources.
+This page serves as a general guide for Light Sources.
 
 [Unity Docs](https://docs.unity3d.com/Manual/class-Light.html)
 
