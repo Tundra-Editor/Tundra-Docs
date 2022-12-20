@@ -40,7 +40,7 @@ Do **not** press `Generate Lights`. PSX Shaders do **not** support baking lights
 
 ### Environment
 - `Skybox Material` is the Skybox that shows up on your level.
-  - Make sure `Render Skybox` is enabled on your [MapInfo](../important/map-setup#map-info) Game Object.
+  - Make sure `Render Skybox` is enabled on your [MapInfo](/important/map-setup#map-info) Game Object.
 
 - `Environment Lighting` - Ambient color of the level. All objects are lit by the given color.
   - `Skybox` adjusts the color automatically on the given Skybox.
@@ -50,17 +50,16 @@ Do **not** press `Generate Lights`. PSX Shaders do **not** support baking lights
 ### Other Settings (Fog)
 Fog is off by default. Enabling it will make far away objects fade into the selected color.
 
-- `Color` is the color to finally fade into.
+- `Color` is the color to fade into.
 - `Mode` is the type of curve to use for fading. `Linear` is the best and easiest to use.
 - `Start` is the distance where objects will start fading. Any objects below this distance are fully visible.
-- `End` is the distance where the object is fully faded, and has the specified `Color`.
+- `End` is the distance where the object is fully faded, and is just a silhouette of the specified `Color`.
 
 
 ![fog example 1](../_images/fog_example1.png)
 ![fog example 2](../_images/fog_example2.png)
 
-*Fog Settings example on White Cubes, with Black `Fog Color`, `Start` value of 0, and `End` value of 300*
-
+*Fog Settings example on White Cubes, with Black `Fog Color`, `Start` value of 0, and `End` value of 300.*
 *The Long cube is 568 units long, the 4th small cube is at the 300 Unit Mark*
 
 :::tip
