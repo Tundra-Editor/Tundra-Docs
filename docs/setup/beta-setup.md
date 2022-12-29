@@ -14,6 +14,12 @@ Make sure that the Git LFS box is checked during the installation.
 
 If you don't have an ssh key, you should create one right now. [Guide](https://docs.gitlab.com/ee/ssh/#generate-an-ssh-key-pair)
 
+:::info
+
+Your key **CANNOT** have a passphrase. If it does, you will have to remove it and create a new one.
+
+:::
+
 Open the command prompt and type: `ssh-keygen`
 
 The default settings should be fine, so feel free to keep pressing enter.
