@@ -56,4 +56,4 @@ Triggers the events from [Events](/components/object-activator#events) regardles
 Triggers the events from [Events](/components/object-activator#events) if conditions are met.
 
 ### Deactivate()
-Deactivates the Object Activator, and [reverts the events](../components/ultrakill-event.md#). If [One Time](/components/object-activator#one-time) was enabled, it resets its state so it can be used again.
+Deactivates the Object Activator, and [reverts the events](../components/ultrakill-event.md##on-dis-activate). If [One Time](/components/object-activator#one-time) was enabled, it resets its state so it can be used again.
