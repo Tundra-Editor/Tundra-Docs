@@ -19,7 +19,7 @@ Finally, it will let you select a function to run when the ULTRAKILL Event is tr
 
 ![Object Activator Example](../_images/object-activator-example.png)
 
-This is an example where the Player gets teleported when the [Object Activator](../components/object-activator)'s ULTRAKILL Event is triggered.
+This is an example where the Player gets teleported when the [Object Activator](/components/object-activator)'s ULTRAKILL Event is triggered.
 
 ## On Dis Activate()
 This part of ULTRAKILL Event is rarely used.
@@ -29,7 +29,7 @@ Components that have a "deactivation part" (for example leaving an ObjectActivat
 In a case where `On Dis Activate()` runs, it also reverts the `To Activate Objects`, `To Dis Activate Objects` states. Objects in `To Activate Objects` become **in**active, and objects in `To Dis Activate Objects` become **active**.
 
 Notably used in:
-- [Object Activator](../components/object-activator)
+- [Object Activator](/components/object-activator)
 - Variable Watchers
 
 :::tip
