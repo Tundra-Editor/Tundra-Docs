@@ -18,6 +18,7 @@ You then have to select a Game Object that has your desired function you want to
 Finally, it will let you select a function to run when the ULTRAKILL Event is triggered.
 
 ![Object Activator Example](../_images/object-activator-example.png)
+
 This is an example where the Player gets teleported when the [Object Activator](../components/object-activator)'s ULTRAKILL Event is triggered.
 
 ## On Dis Activate()
