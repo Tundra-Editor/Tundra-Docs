@@ -23,3 +23,6 @@ for outdoor and indoor areas.
 ![setting the layer and the tag](../_images/setting-layer-and-tag.png)
 
 Additionally, you should mark your walls and floors as Navigation Static if you plan to have enemies there. Only Navigation static objects are included in the [Navmesh bake](navmesh), which is used by enemies.
+
+## "Invisible" Layer
+If an Object is tagged with this layer, it will be invisible. This can be helpful for having a visual representation of a Trigger in the editor without it being visible in game.
