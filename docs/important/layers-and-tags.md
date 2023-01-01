@@ -7,14 +7,6 @@ This might change in the future, but due to the way ULTRAKILL was programmed, yo
 :::tip
 
 `Outdoors` acts the same way as `Environment`. You can use this to have a seperate
-Light source
-for outdoor and indoor areas.
-
-:::
-
-:::tip
-
-`Outdoors` acts the same way as `Environment`. You can use this to have a seperate
 [Light source](../guides/lights)
 for outdoor and indoor areas.
 
