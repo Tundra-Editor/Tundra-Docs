@@ -1,8 +1,8 @@
 # Beta Prerequisites
 
-## Creating a GitLab account
+## Creating a GitHub account
 
-If you don't have a GitLab account, you can create one [here](https://gitlab.com/users/sign_up).
+If you don't have a GitHub account, you can create one [here](https://github.com/join).
 
 ## Installing Git
 
@@ -32,11 +32,11 @@ Copy the contents of the `id_rsa.pub` file into your clipboard.
 
 By default, it should be in the `.ssh` folder located in your user directory.
 
-Next, go to this [GitLab page](https://gitlab.com/-/profile/keys) and paste the contents of the `id_rsa.pub` file into the `Key` field and click `Add key`
+Next, go to this [GitHub Add SSH Key Page](https://github.com/settings/ssh/new) and paste the contents of the `id_rsa.pub` file into the `Key` field and click `Add SSH key`
 
-## Joining the testers group
+## Joining the testers GitHub organization
 
-As of now, all the repositories needed for Tundra are private. You will have to be manually added to the testers group.
+As of now, all the repositories needed for Tundra are private. You will have to be manually added to the testers organization, so please share your GitHub username on the Tundra Discord server.
 
 Otherwise you will be unable to proceed.
 

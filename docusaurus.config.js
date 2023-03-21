@@ -54,7 +54,7 @@ const config = {
         title: "Tundra Docs",
         logo: {
           alt: "Tundra Docs",
-          src: "img/tundra-logo.png",
+          src: "img/tundra_logo_new_saturated.png",
         },
         items: [
           {
