@@ -5,7 +5,7 @@
 If you don't have Unity already installed, go and install [Unity Hub](https://unity3d.com/get-unity/download).
 You might have to create a Unity account and choose the personal license.
 
-After that you will have to [install Unity 2019.4.16f](unityhub://2019.4.16f1/e05b6e02d63e). You don't need any dev tools, platform support or documentation so feel free to uncheck all the boxes.
+After that you will have to [install Unity 2019.4.40f1](unityhub://2019.4.40f1/ffc62b691db5). You don't need any dev tools, platform support or documentation so feel free to uncheck all the boxes.
 
 Also, it might be useful to learn the [Unity essentials](https://unity3d.com/learn/tutorials/topics/interface-essentials/interface-overview) if you have never used Unity.
 
