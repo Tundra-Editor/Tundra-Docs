@@ -28,14 +28,14 @@ The base game names topmost room GameObjects with the pattern `X - Name`. The ex
 1. `1 Nonstuff`: **This is where everything that doesn't need to be saved by checkpoints goes**, so most of your level geometry and lights.
 2. `1 Stuff`: This is where everything that can move, spawn, be broken, etc. goes. **Everything under here will be reset by checkpoints.**
 
-**`1 Stuff` should have a `GoreZone` component.** Anything that can produce gore or can be broken needs a GoreZone to reset properly.
+**`1 Stuff` should have a `Gore Zone` component.** Anything that can produce gore or can be broken needs a GoreZone to reset properly.
 The exact location often does not matter (it just needs to be a parent, grandparent, etc of enemies and such), but this is a very convenient place to put it.
 
 ![room structure](../_images/room-structure.png)
 
 ## Checkpoint Setup
 
-**Checkpoints must be unparented.**. Do not put them in their containing room.
+**Checkpoints must be unparented**. Do not put them in their containing room.
 
 **Set `To Activate` to the room that contains the checkpoint.** This room will be activated when reloading.
 
