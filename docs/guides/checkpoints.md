@@ -19,7 +19,7 @@ As a side note, **naming convention** is the least important bit of this documen
 
 ## Room Setup
 
-Your level **should be separated into rooms** (see: [Optimization](../guides/optimization.md)), typically each room only having one enemy arena in it.
+Your level **should be separated into rooms** (see: [Optimization](optimization.md)), typically each room only having one enemy arena in it.
 
 The base game names topmost room GameObjects with the pattern `X - Name`. The examples below will use `1 - Example Room`.
 
