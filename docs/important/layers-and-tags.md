@@ -2,7 +2,12 @@
 
 This might change in the future, but due to the way ULTRAKILL was programmed, you have to remember a couple of things.
 
-!> Mark your floors and walls as `Environment` or `Outdoors` and tag your floors with `Floor`!
+
+:::caution
+
+Mark your floors and walls as `Environment` or `Outdoors` and tag your floors with `Floor`!
+
+:::
 
 :::tip
 
