@@ -43,6 +43,8 @@ The exact location often does not matter (it just needs to be a parent, grandpar
 
 **Atleast one thing must be in either `Rooms` or `Rooms To Inherit`, otherwise the player will respawn into the void.**
 
+Additionally, **do not put a GameObject in both `Rooms` *and* `Rooms To Inherit`**. This will break things; the object must only be placed in one or the other.
+
 The difference between the two is when the save happens:
 
 - `Rooms`: Everything in `Rooms` is saved **immediately upon level load**. Use this for stuff that can't possibly be affected before hitting the checkpoint. Reusable checkpoints likely won't make much use of `Rooms`.
